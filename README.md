@@ -6,7 +6,7 @@ A beginner-friendly Python project that scans Apache-style access logs and extra
 - Top 10 User-Agent strings
 - All 404 Not Found requests (commonly used in recon or bot scans)
 
-This project simulates lightweight SIEM functionality and showcases DevSecOps practices using GitHub Actions for automation.
+This project simulates lightweight SIEM functionality.
 
 ---
 
@@ -18,7 +18,7 @@ This project simulates lightweight SIEM functionality and showcases DevSecOps pr
 | `sample_access.log`            | Sample Apache log file                         |
 | `report.txt`                   | Output file generated after analysis           |
 | `.gitignore`                   | Prevents pushing unwanted files                |
-| `.github/workflows/log-parser.yml` | GitHub Action to run script on push        |
+
 
 ---
 
